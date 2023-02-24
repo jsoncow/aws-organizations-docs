@@ -113,7 +113,6 @@ The following actions are supported for delegation policy:
 + `AttachPolicy`
 + `CreatePolicy`
 + `DeletePolicy`
-+ `DeletePolicy`
 + `DescribeAccount`
 + `DescribeCreateAccountStatus`
 + `DescribeEffectivePolicy`
